@@ -18,6 +18,12 @@ docker run -p 8000:8000 -p 8001:8001 --name chatglm chatglm
 docker start chatglm
 ```
 
+**docker 停止容器**
+
+```shell
+docker stop chatglm
+```
+
 
 
 ### 2. 发送请求
